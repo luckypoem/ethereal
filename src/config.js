@@ -45,8 +45,8 @@ export default {
   // 关于页二维码
   alipay_qr: '//cdn.wallleap.cn/img/custom/donate/alipayQr.jpg',
   // GitHub Issues 配置
-  username: 'wallleap',
-  repository: 'myblogs',
+  username: 'luckypoem',
+  repository: 'ethereal',
   friendsRepo: 'friends',
   // 您的信息
   author: 'Luwang',
@@ -59,7 +59,7 @@ export default {
   avatar: '//gravatar.wallleap.cn/avatar/be1ccdcf025a92b98a92e331e1b3662a?size=256',
   desc: 'Luwang\'s blog',
   // 文章相关
-  pageSize: 12,
+  pageSize: 5,
   defaultCover: '//cdn.wallleap.cn/img/post/1.jpg',
   // 图片加载失败时显示，请将图片下载至你自己的存储空间，并使用自己的 CDN 引入
   errorImg: '//cdn.wallleap.cn/img/pic/cover/image_processing20200524-7638-6itpxj.gif',
